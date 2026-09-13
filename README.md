@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1732-find-the-highest-altitude) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3904-smallest-stable-index-ii) |
