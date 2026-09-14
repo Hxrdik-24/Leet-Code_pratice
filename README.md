@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1025-divisor-game) |
@@ -321,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0014-longest-common-prefix) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
