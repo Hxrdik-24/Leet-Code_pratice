@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1512-number-of-good-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0504-base-7) |
 | [0796-rotate-string](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0796-rotate-string) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1512-number-of-good-pairs) |
 ## Heap (Priority Queue)
