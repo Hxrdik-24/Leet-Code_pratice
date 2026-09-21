@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0169-majority-element) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0268-missing-number) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1768-merge-strings-alternately) |
