@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1512-number-of-good-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1929-concatenation-of-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1512-number-of-good-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1732-find-the-highest-altitude) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3903-smallest-stable-index-i) |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Quicksort
 |  |
