@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0383-ransom-note) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0976-largest-perimeter-triangle) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0415-add-strings) |
