@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1025-divisor-game) |
 ## Recursion
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0504-base-7) |
+| [0678-valid-parenthesis-string](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1189-maximum-number-of-balloons) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0225-implement-stack-using-queues) |
+| [0678-valid-parenthesis-string](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0179-largest-number) |
+| [0678-valid-parenthesis-string](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0678-valid-parenthesis-string) |
 | [0976-largest-perimeter-triangle](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0976-largest-perimeter-triangle) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Enumeration
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Z Algorithm
