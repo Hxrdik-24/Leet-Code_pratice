@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0504-base-7) |
 | [0678-valid-parenthesis-string](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0856-score-of-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Z Algorithm
